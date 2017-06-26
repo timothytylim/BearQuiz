@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">Berkeley is the home of the Golden Pears</string>
+    <string name="question_berkeley">Berkeley is the home of the Golden Pears</string>
+    <string name="question_oceans">The Pacific Ocean is larger than the Atlantic Ocean</string>
+    <string name="question_round">The world is round</string>
+    <string name="question_trumpet">Trumpets are mostly made from wood</string>
+    <string name="question_greece">Ancient Greek is still spoken today</string>
+    <string name="question_bear">Berkeley\'s mascot, the Golden Bear, is a real species </string>
+    <string name="question_sleep">REM sleep stands for Restful Ethereal Mode sleep</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="next_button">Next</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
 </resources>
